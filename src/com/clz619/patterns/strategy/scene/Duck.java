@@ -1,7 +1,7 @@
 /**
  * @author ChenLizhong
  */
-package com.clz619.patterns.strategy.model;
+package com.clz619.patterns.strategy.scene;
 
 /**
  * @author ChenLizhong
